@@ -1,7 +1,17 @@
 ### Hi there 👋
 
+## About Me
+My name is ikfan yudha, also you can call me ifan.
+I am a fast-learning undergraduate student at Mulia University, majoring in Computer Science with a current GPA of 3.80/4.00.
+
+## Skills 
+- Php / Laravel
+
+## Currently Learning...
+- Dart / Flutter
+- Kotlin / Android Studio
 <!--
-**ifaan35/ifaan35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RajaPrasetya/RajaPrasetya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
