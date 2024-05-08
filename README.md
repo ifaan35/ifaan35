@@ -6,6 +6,7 @@ I am a fast-learning undergraduate student at Mulia University, majoring in Comp
 
 ## Skills 
 - Php / Laravel
+- Dart / Flutter
 
 ## Currently Learning...
 - Dart / Flutter
